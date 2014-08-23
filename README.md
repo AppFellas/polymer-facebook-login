@@ -26,7 +26,7 @@ Or install it yourself as:
 
 ```ruby
 gem 'polymer-rails'
-gem 'polymer-google-map'
+gem 'polymer-facebook-login'
 ```
 
 After runnign `bundle install` require needed paper elements into your `application.html` manifest file.
