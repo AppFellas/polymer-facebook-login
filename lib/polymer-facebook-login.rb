@@ -1,2 +1,2 @@
-require "polymer-google-map/version"
-require "polymer-google-map/engine" if defined?(::Rails)
+require "polymer-facebook-login/version"
+require "polymer-facebook-login/engine" if defined?(::Rails)
